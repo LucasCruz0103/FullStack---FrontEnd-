@@ -25,4 +25,4 @@ Para rodar o projeto é necessário que você tenha instalado na sua máquina as
 $ yarn install
 
 # Rode o projeto
-$ yarn dev
+$ yarn start
